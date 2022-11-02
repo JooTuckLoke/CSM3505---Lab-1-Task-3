@@ -1,7 +1,7 @@
 # CSM3505---Lab-1-Task-3
 This is the Task 3 for Lab 1 of CSM3505 by S58101
 
-#Steps
+# Steps
 
 ![layout design page](https://user-images.githubusercontent.com/103648695/199456234-39d3a8ca-2cfb-4662-af5f-46e6e5b0caa0.jpg)
 
@@ -15,7 +15,7 @@ This is the Task 3 for Lab 1 of CSM3505 by S58101
 
 ![horizontal chain](https://user-images.githubusercontent.com/103648695/199456381-9415c835-76c7-4b30-a2ce-8e04362da5b6.jpg)
 
-#Product
+# Product
 
 ![app on emu](https://user-images.githubusercontent.com/103648695/199456438-0bd0b24d-e2ba-419e-b683-b70ce0418fe3.jpg)
 
